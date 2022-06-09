@@ -1,0 +1,27 @@
+.container{
+
+  text-align: center;
+}
+.btn-color{
+  background-color: black;
+  color: white;
+  padding: 8px 20px;
+ 
+  border: 2px solid white;
+}
+.display-block{
+  display: inline;
+}
+.input-box{
+  width: 240px;
+
+}
+#input-text{
+  width: 100%;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.btn-text{
+  border: 1px solid  #0d6efd;
+  width: 18%;
+}
